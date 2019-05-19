@@ -18,5 +18,15 @@ body {
 }
 
 .portfolio-item {
-  margin-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.input-group {
+    padding-top: 100px;
+    padding-bottom : 50px;
+}
+
+.footer {
+  padding: 25px 0;
+  text-align: center;
 }
